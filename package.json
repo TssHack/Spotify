@@ -1,0 +1,17 @@
+{
+    "name": "spotify-downloader",
+    "version": "1.0.0",
+    "description": "Spotify downloader api",
+    "main": "app.js",
+    "devDependencies": {},
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Amin",
+    "dependencies": {
+      "express": "^4.18.2",
+      "cors": "^2.8.5",
+      "axios": "^1.6.2"
+    }
+  }
+  
